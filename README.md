@@ -1,21 +1,25 @@
 # Natalia Fesenko
-### ***About me***
-Почему Devops? Всегда интрересовало системной администрирование, а системное администрирование и DevOps — очень похожие вещи: принципы остаются точно такие же, просто появляются новые инструменты. А еще мне импонирует сама методолгия и принципы. Автоматизация это же прекрасно, "не трогать ничего руками", минимальное вмешательство человека минимизирует ошибки.
-
-Своими основными качествами считаю инициативность, коммуникабельность и настойчивость. Моя жизненная позиция: нет ничего, чему нельзя было бы научиться. Все новое - это путь к развитию себя и своей личности. Трудности меня не пугают, а лишь побуждают к активным действиям. В любом вопросе всегда стараюсь найти самую суть и глубину проблемы или задачи, чтобы найти наиболее эффективный способ ее решения. Для меня важно, чтобы мой труд не только приносил пользу компании, но и позволял мне развиваться.
+### ***About me**
+I chose a not easy profession for myself. But system administration as a basic is interesting, and once I heard about DevOps. I like the methodology and its principles. Automation – “don't touch anything with your hands,” infrastructure, control, monitoring. I am very communicative, and this profession suits me very well. I am proactive, tenacious, and persistent. I suppose that there is nothing that cannot be learned, nothing is impossible, and all boundaries are only are only in our heads. I have ambitious dreams that I turn into plans, when I have fulfilled some, I make others, an endless cycle of development. 
 
 ### ***Skills***
-Linux, Git, Networking, Docker, Terraform, Ansible, Sql
+Linux & Network Administration, Git, Docker, Terraform, Ansible, Sql, K3s
 
 ### ***Courses*** 
++ Mayo College "Software Development with Cloud Computing" - **in progress**
++ PortaOne "Linux & Network Administration" - **in progress**
 + DevOps Autumn School 2021, 
-+ Сазыкин - "Основы SQL" и Курс "Компьютерные сети", 
-+ Слёрм - Linux for developers, Базовое администрирование Linux-серверов,
-+ видеотуториалы с каналов freeCodeCamp, ADV-IT, DevOps Toolkit, TechWorld with Nana.
++ slurm - Linux for developers
++ freeCodeCamp, ADV-IT, DevOps Toolkit, TechWorld with Nana
 
 ### ***Books***
-+ Немет Э., Снайдер Г., Хейн Т. - Unix и Linux. Руководство системного администратора - **читаю сейчас**,   
-+ Таненбаум Э. - Компьютерные сети. 5-е издание, + Таненбаум Э. С., Остин Т. - Архитектура компьютера. 6-е издание, 
-+ Линн Бейли - Изучаем SQL, 
-+ Брикман Е. - Terraform: инфраструктура на уровне кода 2-е издание
-+ Д.Ким, К.Бер, Д.Спаффорд - Проект «Феникс». Роман о том, как DevOps меняетбизнес к лучшему
++ Eric Matthes - Python Crash Course, 2nd Edition - **I read it now**
++ Nemeth, E. Snyder, G. Hein, T.R.  Whaley, B.  Mackin, D - UNIX and Linux System Administration Handbook - 2017 - **I read it now**,   
++ Andrew S. Tanenbaum, Albert S. Woodhull - Operating Systems Design and Implementation - 2011 
++ Andrew S. Tanenbaum, Todd Austin - Structured Computer Organization - 2012 
++ Yevgeniy Brikman - Terraform: Up & Running, Writing Infrastructure as Code SECOND EDITION
++ The Phoenix Project, A Novel about IT, DevOps, and Helping Your Business Win 5th Anniversary Edition 
+
+
+
+
