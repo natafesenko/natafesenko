@@ -6,8 +6,10 @@ I chose a not easy profession for myself. But system administration as a basic i
 Linux & Network Administration, Git, Docker, Terraform, Ansible, Sql, K3s
 
 ### ***Courses*** 
-+ Mayo College "Software Development with Cloud Computing" - **in progress**
-+ PortaOne "Linux & Network Administration" - **in progress**
++ CCT College Dublin "Diploma in Networking and Systems Security", Level 7
++ Mayo College "Computer Systems & Networks", Level 6
++ Mayo College "Software Development with Cloud Computing", Level 5
++ PortaOne "Linux & Network Administration"
 + DevOps Autumn School 2021, 
 + slurm - Linux for developers
 + freeCodeCamp, ADV-IT, DevOps Toolkit, TechWorld with Nana
